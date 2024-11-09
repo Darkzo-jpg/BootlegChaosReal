@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Somari_stage.png">
+	<!-- Created using the Spritesheet and XML generator -->
+	<!-- https://uncertainprod.github.io/FNF-Spritesheet-XML-generator-Web -->
+	<SubTexture name="Stage idle0000" x="0" y="0" width="580" height="292" frameX="2" frameY="2" frameWidth="576" frameHeight="288"/>
+	<SubTexture name="Stage idle0001" x="0" y="0" width="580" height="292" frameX="2" frameY="2" frameWidth="576" frameHeight="288"/>
+	<SubTexture name="Stage idle0002" x="0" y="0" width="580" height="292" frameX="2" frameY="2" frameWidth="576" frameHeight="288"/>
+	<SubTexture name="Stage idle0003" x="0" y="0" width="580" height="292" frameX="2" frameY="2" frameWidth="576" frameHeight="288"/>
+	<SubTexture name="Stage idle0004" x="580" y="0" width="580" height="292" frameX="2" frameY="2" frameWidth="576" frameHeight="288"/>
+	<SubTexture name="Stage idle0005" x="580" y="0" width="580" height="292" frameX="2" frameY="2" frameWidth="576" frameHeight="288"/>
+	<SubTexture name="Stage idle0006" x="580" y="0" width="580" height="292" frameX="2" frameY="2" frameWidth="576" frameHeight="288"/>
+	<SubTexture name="Stage idle0007" x="580" y="0" width="580" height="292" frameX="2" frameY="2" frameWidth="576" frameHeight="288"/>
+</TextureAtlas>

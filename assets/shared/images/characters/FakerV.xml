@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="FakerV.png">
+<SubTexture name="FakerV Left0000" x="223" y="0" width="234" height="384" frameX="-93" frameY="-175" frameWidth="600" frameHeight="600" />
+<SubTexture name="FakerV Left0001" x="0" y="0" width="223" height="385" frameX="-104" frameY="-174" frameWidth="600" frameHeight="600" />
+<SubTexture name="FakerV Down0000" x="400" y="716" width="235" height="326" frameX="-174" frameY="-203" frameWidth="600" frameHeight="600" />
+<SubTexture name="FakerV Down0001" x="1019" y="0" width="234" height="328" frameX="-175" frameY="-200" frameWidth="600" frameHeight="600" />
+<SubTexture name="FakerV Up0000" x="457" y="0" width="281" height="372" frameX="-158" frameY="-119" frameWidth="600" frameHeight="600" />
+<SubTexture name="FakerV Up0001" x="738" y="0" width="281" height="370" frameX="-158" frameY="-121" frameWidth="600" frameHeight="600" />
+<SubTexture name="FakerV right0000" x="162" y="716" width="238" height="327" frameX="-220" frameY="-180" frameWidth="600" frameHeight="600" />
+<SubTexture name="FakerV right0001" x="484" y="385" width="237" height="329" frameX="-220" frameY="-178" frameWidth="600" frameHeight="600" />
+<SubTexture name="FakerV idle0000" x="0" y="385" width="164" height="331" frameX="-212" frameY="-176" frameWidth="600" frameHeight="600" />
+<SubTexture name="FakerV idle0001" x="721" y="385" width="163" height="329" frameX="-212" frameY="-178" frameWidth="600" frameHeight="600" />
+<SubTexture name="FakerV idle0002" x="1019" y="328" width="162" height="328" frameX="-213" frameY="-179" frameWidth="600" frameHeight="600" />
+<SubTexture name="FakerV idle0003" x="0" y="716" width="162" height="328" frameX="-213" frameY="-179" frameWidth="600" frameHeight="600" />
+<SubTexture name="FakerV idle0004" x="324" y="385" width="160" height="330" frameX="-214" frameY="-177" frameWidth="600" frameHeight="600" />
+<SubTexture name="FakerV idle0005" x="164" y="385" width="160" height="331" frameX="-215" frameY="-176" frameWidth="600" frameHeight="600" />
+</TextureAtlas>
